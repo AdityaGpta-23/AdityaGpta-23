@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">2nd Year Undergraduate @ IIT Delhi</h2>
+<h2 align="center">2nd Year Undergraduate @ IIT Delhi</h2>
 
 ###
 
